@@ -1,0 +1,14 @@
+.expenses{
+    background-color: rgb(19, 19, 19);
+    width: 50rem;
+    max-width: 98%;
+    padding: 5px;
+    margin: 2rem auto;
+}
+
+.expenses p{
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+}
